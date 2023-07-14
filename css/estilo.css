@@ -1,0 +1,38 @@
+
+
+.cabecalho {
+   background-color:#1768AC;
+   height: 3rem;
+
+}
+
+.cabecalho_titulo {
+   margin-left: 2rem;
+   padding-top: 10px;
+   color: white;
+   font-weight: bold;
+   font-size: 1.5rem;
+
+}
+
+.container {
+   background-color: #06BEE1;
+   width: 40%;
+   height: 160px;
+   text-align: center;
+   margin: 100px auto;
+   padding-top: 3rem;
+   padding-bottom: 2rem;
+   border-radius: 30px   
+}
+
+.lista{
+   font-size: 1.5rem;
+   border-radius: 30px;
+   background-color: #A3CEF1;
+   margin-bottom: 10px;
+}
+
+a {
+   text-decoration: none;
+}
